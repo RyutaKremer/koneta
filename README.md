@@ -1,8 +1,10 @@
 Different points from Linux/samples/bpf
 
-# change
-
-# add
-	- pktcount\_*.c
+- change
+	- Makefile
+		- 各プログラムをコンパイル
+	
+- add
+	- pktcount_*.c
 		- パケットのカウント
 
